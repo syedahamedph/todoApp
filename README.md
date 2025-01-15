@@ -14,7 +14,7 @@ This is a simple React-based To-Do Application. It allows users to add tasks, ma
 First, you need to clone the repository to your local machine. Use the following command in your terminal:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/syedahamedph/todoApp.git
 
 
 npm install
